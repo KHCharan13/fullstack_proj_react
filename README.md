@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-##Deployed Link
+
+
+## Deployed Link
 https://weeblog-m8z8fcxj4-khcharan13.vercel.app
 ## Getting Started
 
